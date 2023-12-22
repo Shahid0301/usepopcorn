@@ -25,6 +25,7 @@ export default function StarRating({ maxRating = 5, color = "#fcc419",
 }) {
   const [rating, setRating] = useState(defaultRating);
   const [tempRating, setTempRating] = useState(0);
+  onSetRating(rating);
   const textStyle = {
     lineHeight: "1",
     margin: "0",
