@@ -1,4 +1,18 @@
 Deployed Link-https://usepopcorn-bay.vercel.app/
+✨ Key Features:
+1. Real-Time Movie Tracking: Easily create and manage your watched list with seamless real-time updates.
+2. Detailed Movie Insights: Dive into comprehensive stats about your movie-watching habits, from genres to runtime.
+3. Custom Ratings: Express your thoughts and preferences by assigning custom ratings to the movies you've watched.
+
+🔧 Powered by ReactJS:
+Utilizing the robust capabilities of ReactJS, "UsePopcorn" offers a smooth and intuitive user experience. From dynamic UI components to efficient data handling, every aspect of the application is crafted to deliver excellence.
+
+🎯 Goals Achieved:
+- Streamlined movie tracking experience for users of all levels.
+- Enhanced engagement through personalized ratings and insightful statistics.
+- Seamless integration of real-time search functionality for effortless movie discovery.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
